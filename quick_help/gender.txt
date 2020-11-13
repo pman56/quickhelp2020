@@ -1,0 +1,191 @@
+Ladies First
+
+Connecting Women to Organize Protests, Fight for Justice and Gender Equity in the Society.
+
+In the most part of the world, Girls,Women are treated as if they are not human, Some men even sees Women as their own 
+landed property or sex slaves. In Africa, Girls, women do not have any say in their homes, social gatherings and communities
+as most of the decision are done and concluded by men irrespective of whether it favours the woman in question or not.
+
+A lot of young women has died of unwanted/forceful pregnancy simply because they have no one to speak for them.
+Everyone should called an evil an evil when they sees it and should works towards tackling the gender
+discrimantion while ensuring that justice is done.
+
+They are numerous factors that can contributes to gender inequality and their possible way out.
+
+1.)Use of Notorious Sexy Language: Use of Sexy languages when addressing women tends to create fear and makes the woman
+feels inferior. An Employer was once seen addressing heir women employees as Girls, this is a gender discrimination of highest
+order.
+Men should know that women are gift from God and to that effect, every women should be treated with reference, love and care.
+
+
+2.) Poverty: Lifiting Girls and Women out of extremely poverty is very essentials. this is mostly obtainable by creating
+a health facilites mostly for women particulary Maternal Health Programs.
+
+3.) Jobs/Opportunities: Women needs to sit on boards along with men in various high offices and departments to ensure
+that women's issues are also at the frontline. If this is not done, then fundamental human right is not complete.
+ 
+4.)Abolishing Gender Roles:  One of the main tools to fight for gender equity is by abolishment of gender roles at home
+environments. In Africa, Girls are said and know for doing house choirs, washing plates, sweeping houses while boys will
+be out there playing games, football. The domestic choirs sould not be gender biased so as to eliminate gender home domestic roles.
+
+5.)Enterpreneurship: Women should be trained and educated to be self independent and should also learn most skills that will
+help them at long run.
+
+In most of African Countries in the Rural areas, Some women through initiative has learn and produce a washable 
+Sanitary Pads for their girls 
+and women. This help Girls, Women to fight gender inequality because they do not longer need to worry about what they are going to
+use next month when they menstruates. This achievements simply means that Girls should be able to stay in schools instead
+of staying at home during menstruation.
+
+
+6)Education: Education is the key tools to fight gender inequality. In africa, Boys are valued more than Girls. If a woman 
+do not have a male Child, it appears as if they do not have a child. People should be educated to know that
+ Child is Child irresptive of gender type. Consequently, most families sends boys to a better school than girls. This can be attributed
+to greater number of illetrate women in the society. To curtail this injustice on girls, proper educations, skills acquistions
+with little capital investment will help young girls to break out of the poverty cycle.
+
+7.) Sexual Harrasment Cases:   1 in 3 women may have experienced sexual harrasment at certain points in her life time. Gender
+equity should be fight for by establishing a Law in various Communities, Countries etc. that protect Women against such sexual
+threats. they should also be a reporting system to that effect so that perpetuators of the crime should be reported 
+to appropriate authorities for justice to take its place.
+
+8.) Organizing and Executing Protest: Protest is the key as it enables women to express their oppressions in their locality,
+communities and to the government.
+
+9.)Ovulation and Menstral Cycle: Boys and Girls should be allowed to learn about Sexual Education. Girls should be educated
+to know what happens to their own body inside out.
+
+
+
+What the app does and how it fights Gender Inequality:
+
+1.) The <b>Ladies First</b> applications was ddesigned to connects Girls, women etc who needs assistance with 
+those who are willing to assist them.
+
+For Instance a woman can create a post or Video indicating that She is Offering an Enterpreneurship Assistance on
+how to make a Washable Pads that can help Women during menstruation and broadcast to the community.
+
+Another women can create a post saying that She is offering an Assistance on Jobs/Opportunities and then Broad-cast it
+to the communities.
+
+Another women can create a Post saying that she needs an Advice assistance on Sexual Harrassment by her Employeer and then share it to the community.
+
+Another women can create a Post/Video indicating a rape while requesting for Justice or Protests to be done.
+
+Another women can create an educative post indicating that she is offering an assistance on how to educate Girls
+ about Ovulation and Menstual Cycle. etc.
+
+The usage of this application is endless.
+
+<b> For any Posts, Video, Protests etc Created on the platform, other Members of the Community can reply in the 
+comments section for that Post. They can also like/unlike the content being shared</b>
+
+
+The categories covered for Offering and given assistance includes:
+
+<b>Menstral-Cycle, Jobs, computer Learning, Sexual-Harrasment, Racism, Police-Brutality, Marginalization, Education,
+Advice, Health, Enterpreneurship, Families, Stories etc.</b>
+
+
+
+2.) The also Application monitors obscene and gender inequality words used against women in a every post and blocks them while
+telling the poster that those words are not allowed in the Post.
+Gender Inequality Words like <b>Bossy, bitch, bubbly,disty, frigid, frumpy, pushy, bombshell, bolshy, whinging etc.</b>
+are authomatically blocked in any post within the application.
+
+3.) The app also uses predictive text analysis to eliminates certain words in a Post in context to Girls and Women. In
+other words, the app presents Girls, Women as being beautiful and amazing whenever a female gendered word is used in the Post.
+
+For example, If you mention <b>woman</b> in the Post, the <b>woman</b> will be bolded and surrounds/replaced with word<b>Admirable</b>
+
+This will create a postive impression in the mind of the Poster that He/She is dealing with a woman and 
+that the woman in question needed
+to be admired and treated with utmost respect.
+
+As of coding the application surrounds/replace certain gendered words in a every posts with most respective words ever.
+
+<b>Woman ==> Admirable</b><br>
+women ==>Adorable
+girl/girls ==> Angelic
+lady ==> Beauteous
+ladies ==> Cute
+she ==> charming
+her ==> Beautiful & Dazzling
+female ==> Good Looking
+feminine ==> graceful
+
+4.)<b>Protests:</b> The application was also specifically designed to allow Girls, Women to Organized, plan and execute a protest
+that will help to end the Injustice done on them. To create a Protest, a member will simple click on <b>Manage Protests</b>, 
+and then enter the Protests Title<b>(Eg. Women Rights Protest, Gender Inequality Protests etc.<b/>), protest Description, 
+Protest geolocation address etc. <b>Each of the Protest address is automatically Geo-coded to reflects the Protests
+ Locations/Avenues on the Google Map</b> so that other commnity Members can easily access it and indicate their joining interest
+either by replying in the <b>comments Sections or by their reactions via Likes/unliking the protests</b>
+
+
+5.)Friends Request and Messaging System: The apps also allows the community members to build a friends list and exchange
+one to one messages between each other. This is done by sending a Friend Request Message which can be accepted or rejected
+by the other Members. If Friend Request is accepted, the community Member will be added to your Friends-list  and both you
+can talk privately with each other via one to one messaging System
+
+6.) Fully Integrated Notification System: The system is build to allow community members to get real-time notification 
+Counts broadcasts Updates
+for any Post, Videos, Protests etc. published on the system.
+
+You also get a notification alerts when someone comments, like/unlike your Posts, Videos, Protests etc.
+
+You also get a notification alerts when someone send you a friend request, Accept or Reject your friend request
+You also gets a notification someone sends you a private message and members are also notified if sent messages
+has been read/unread by the recipients.
+
+
+7.)Fully Integrated Score Points System: This Points is used to appreciate those community members who help others the most.
+The more the Posts, Videos, Protests etc. you create/publish, the more Points you earned.
+ If responds to other peoples posts via Likes or replies in 
+the comments sections, you gain more points and so on.
+
+
+How we Built the Application.
+The application was built using Ajax/Jquery, PHP, Bootstraps, Quickbase Code-Pages, and Quickbase Json and XML API Calls .
+
+The Aplication was designed to be accessed in two ways
+
+1.) From Quickbase Code-Page: Here the front-end aplications is coded with Quickbase Code-Pages which makes call to server
+ PHP back-end via Quickbase Json/XML API Call.
+ 
+2.) From any website: Here both Frontend and backend are in the same directory.This can be Uploaded and run from any website.
+
+In a nutshell, We Build this application leveraging Quickbase Code Pages at frontend and 
+Quickbase Json/XML API Call at Backend via PHP.
+Quickbase Table created were 9(Tables) and they are listed below along with their functions
+
+<b>1.) Users Table:</b> used to stored registered Members of the Community. The Table takes in Users credentials like 
+username, fullname, photos, Email, Password etc. Data like Password are hashed at backend using PHP built-in hashed algorithm
+before sending the data to quickbase via XML and Json API Call.<br>
+<b>2.) Posts Table:</b> Keeps records of all the Posts, Videos, Protests etc. Posted/Published by any User<br>
+
+<b>3.) Users_connection Table:</b> Keeps friends list records for users<br>
+<b>4.) Users_temp Table:</b> Keeps users friends request temporarily while allowing the User either to accept, reject or
+delete the request  from our Application UI.<br>
+<b>5.) comments Table:</b> stores each comments commented on every Posts, Videos and Protests being published.<br>
+<b>6.) Message Table:</b> stores Private or one to one messages shared between one user and another within the app.
+<b>7.) Notification_post Table:</b> stores and push notification broadcast to all registered users for each Posts, Videos
+and Protests being published. It also stores and send notification alerts when someone Comments on your Posts, Likes/unlike
+your posts, videos, protests etc.<br>
+<b>8.) Notification_request Table:</b> Used to store and send Friend request notification alerts. it also stores and send
+notifications when someone accept, reject or delete a friend request that you sent to them.
+
+<b>9.) Post_like_unlike Table:</b> used to store users likes and unlikes data made on each published Posts, Videos, Protests
+etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
