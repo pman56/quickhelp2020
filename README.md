@@ -30,7 +30,9 @@ The php Files that houses the Quickbase Configurable credentials includes
 auth_ticket which you will be used later in the files below.
 
 2.) Quickbase_token.php: Houses your quickbase access token, app_token, auth_ticket and so on.
+
 3.) Quickbase_token1.php: Houses your quickbase access token etc.
+
 4.)Quikbase_table: Houses all the table ID's used in the application.
 
 
