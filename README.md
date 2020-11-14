@@ -43,3 +43,5 @@ $url4="https://hackathon20-fesedo.quickbase.com/db/$users_table_db";
 
 6.) call up browser at http://localhost/quickhelp/index.php
 
+Thanks
+
